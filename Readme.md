@@ -89,3 +89,7 @@ Library Management Sql/
 While working on this project, I learned how to create and manage a database using SQL. I also learned how tables can be connected using foreign keys and how `JOIN` can be used to get information from multiple tables.
 
 This project helped me understand SQL better by actually using the queries in a small real-world example.
+
+## Copyright
+
+© 2026 Bhavya Aishwarya. All Rights Reserved.
